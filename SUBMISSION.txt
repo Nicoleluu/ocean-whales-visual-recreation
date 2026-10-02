@@ -1,0 +1,8 @@
+Visual reverse-engineering assignment — North Atlantic right whale abundance
+
+Public page: https://Nicoleluu.github.io/ocean-whales-visual-recreation/
+GitHub repository: https://github.com/Nicoleluu/ocean-whales-visual-recreation
+
+Recreates NOAA's North Atlantic right whale population chart using the original data. Added interactions include a year slider and pointer inspection, time-range filtering, uncertainty/average toggles, and reset. Original chart screenshot, source CSV files, HTML/CSS/JavaScript, attribution, and process notes are included in the repository.
+
+These links are prepared for Courseworks; this file is not confirmation of submission.
